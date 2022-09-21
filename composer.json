@@ -1,5 +1,5 @@
 {
-    "name": "razoyo/autoffl-m2-module",
+    "name": "razoyo/automatic-ffl-magento-module",
     "description": "Automatic FFL Magento 2 Extension",
     "replace": {
         "razoyo/autoffl-core": "self.version",
